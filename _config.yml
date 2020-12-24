@@ -15,9 +15,10 @@ default_img: https://avatars3.githubusercontent.com/u/48089354?s=460&u=74bc11bd6
 # Profile settings
 name: Jeong Ho Park
 profile_img: https://avatars3.githubusercontent.com/u/48089354?s=460&u=74bc11bd647719371d8519d51602e503adeb15c4&v=4
-profile: CSE student
-social: https://www.facebook.com/profile.php?id=100009329985343
-github: pch6828
+profile: 한양대 재학중인 컴퓨터소프트웨어학부 학생입니다.<br>CSE student at Hanyang University in Korea<br><br>DBMS, 알고리즘, 자료구조 등에 흥미가 있습니다.<br>Interested in DBMS, Algorithm, Data Structure, etc...<br>
+social:
+  github: https://github.com/pch6828
+  facebook: https://www.facebook.com/profile.php?id=100009329985343
 
 # Build settings
 include: ["_categories"]
