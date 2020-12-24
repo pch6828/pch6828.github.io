@@ -1,0 +1,33 @@
+# Site settings
+email: pch6828@hanyang.ac.kr
+baseurl: ""
+paginate: 5
+paginate_path: "/blog/page-:num"
+google_analytics: 
+
+# SEO settings
+title: pch6828's Personal Blog
+description: Personal Blog
+url: "pch6828.github.io"
+twitter_username: 
+default_img: https://avatars3.githubusercontent.com/u/48089354?s=460&u=74bc11bd647719371d8519d51602e503adeb15c4&v=4
+
+# Profile settings
+name: Jeong Ho Park
+profile_img: https://avatars3.githubusercontent.com/u/48089354?s=460&u=74bc11bd647719371d8519d51602e503adeb15c4&v=4
+profile: CSE student
+social: https://www.facebook.com/profile.php?id=100009329985343
+github: pch6828
+
+# Build settings
+include: ["_categories"]
+exclude: ["_screenshots", "Gemfile", "Gemfile.lock"]
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Sass
+sass:
+  style: compressed
+
+# Gems
+plugins: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
