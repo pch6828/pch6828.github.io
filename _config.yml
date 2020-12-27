@@ -11,6 +11,7 @@ description: Personal Blog
 url: "pch6828.github.io"
 twitter_username: 
 default_img: /we_can_undo_it.jpg/
+disqus: "pch6828.disqus.com"
 
 # Profile settings
 name: Jeong Ho Park
