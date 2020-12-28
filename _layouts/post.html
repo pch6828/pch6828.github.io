@@ -23,6 +23,16 @@ layout: default
 
   <section class="section-padding post" itemprop="articleBody">
     {{ content }}
+
+{% if page.comments != false %}
+    <div class="container">
+        <div id="comments" class="row justify-content-center mb-5 mr-10 ml-10">
+            <div class="col-md-8">
+                {% include disqus.html %}
+            </div>
+        </div>
+    </div>
+{% endif %}
   </section>
 
   <section class="profile">
@@ -48,15 +58,7 @@ layout: default
 
 </article>
 
-{% if page.comments != false %}
-    <div class="container">
-        <div id="comments" class="row justify-content-center mb-5 mr-10 ml-10">
-            <div class="col-md-8">
-                {% include disqus.html %}
-            </div>
-        </div>
-    </div>
-{% endif %}
+
 
 {% if page.previous.url %}
   <section class="next">
