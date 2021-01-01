@@ -3,7 +3,7 @@ email: pch6828@hanyang.ac.kr
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics: "257473560"
+google_analytics: "G-4JXFC2YJCW"
 
 # SEO settings
 title: pch6828's Personal Blog
