@@ -1,7 +1,7 @@
 /**
  * Base Variables
  */
-$font-header: 'Space Mono', 'Nanum Gothic';
+$font-header: consolas, 'Nanum Gothic';
 $font-body: 'Inconsolata', 'Nanum Gothic';
 $font-post: 'Nanum Gothic', 'Lora';
 
@@ -65,7 +65,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
     $fontSize: 2.5em;
-
+    margin-bottom: 0.25em;
+    
     @media (min-width: $mq-md) {
         font-size: $fontSize;
     }
