@@ -2,7 +2,7 @@
 layout: post
 title: "ToyDB : File, Buffer"
 date: 2021-01-07
-categories: projects
+categories: projects ToyDB
 description: ToyDB 프로젝트 첫번째 기록, File, Buffer 시스템 구현
 image: https://images.unsplash.com/photo-1544523830-2bef1d330b7d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80
 image-sm:

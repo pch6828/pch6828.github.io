@@ -2,7 +2,7 @@
 layout: post
 title: "ToyDB : Skip List Index"
 date: 2021-01-22
-categories: projects
+categories: projects ToyDB
 description: ToyDB 프로젝트 세번째 기록, Skip List 인덱스 구현
 image: https://images.unsplash.com/photo-1590808147774-4193ce5ea129?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80
 image-sm:

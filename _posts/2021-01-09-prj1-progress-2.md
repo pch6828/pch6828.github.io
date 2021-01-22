@@ -2,7 +2,7 @@
 layout: post
 title: "ToyDB : B+Tree Index"
 date: 2021-01-09
-categories: projects
+categories: projects ToyDB
 description: ToyDB 프로젝트 두번째 기록, B+Tree 인덱스 구현
 image: https://images.unsplash.com/photo-1453791052107-5c843da62d97?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80
 image-sm:

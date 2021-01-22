@@ -2,7 +2,7 @@
 layout: post
 title: "Project #1 : Prologue"
 date: 2021-01-01
-categories: projects
+categories: projects ToyDB
 description: 겨울 방학 첫번째 사이드 프로젝트
 image: https://images.unsplash.com/photo-1544383835-bda2bc66a55d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1021&q=80
 image-sm:
