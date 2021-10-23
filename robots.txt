@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pch6828.github.io/sitemap.xml
