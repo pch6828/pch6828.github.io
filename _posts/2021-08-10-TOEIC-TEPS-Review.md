@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TOEIC & TEPS Review"
+title: "Review : TOEIC & TEPS"
 date: 2021-08-10
 categories: univ-life smalltalk graduate-school
 description: 대학원 준비생의 얼렁뚱땅 공인어학성적 준비 이야기
@@ -9,7 +9,7 @@ image-sm:
 comments: true
 ---
 
-# TOEIC & TEPS Review
+# Review : TOEIC & TEPS
 
 대학원을 준비하면서 이것저것 준비하던 중, 어학 성적을 준비하게 되었다. 대학원 입학 전형에서는 그리 높은 성적을 요하지 않기 때문에, 정말 적당히만 준비했지만, 그래도 이런 경험에 대해서 기록을 남기고 싶어서 이렇게 글을 쓴다. 물론 토익 성적을 받은지 대략 2달 반, 텝스 성적을 받은지 2주가 지났으니, 좀 뒷북이긴 하다. 혹시라도 TOEIC & TEPS 학습 팁을 보려고 이 페이지에 들어왔다면, 큰 도움은 안 될 테니 조용히 뒤로 가기를 누르길....<br>
 <br>
