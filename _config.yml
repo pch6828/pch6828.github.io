@@ -1,5 +1,5 @@
 # Site settings
-email: pch6828@hanyang.ac.kr
+email: jeongho.park@kaist.ac.kr
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
@@ -16,10 +16,12 @@ disqus: "pch6828"
 # Profile settings
 name: Jeong Ho Park
 profile_img: https://avatars3.githubusercontent.com/u/48089354?s=460&u=74bc11bd647719371d8519d51602e503adeb15c4&v=4
-profile: 한양대 재학중인 컴퓨터소프트웨어학부 학생입니다.<br>CSE student at Hanyang University in Korea<br><br>DBMS, 알고리즘, 자료구조 등에 흥미가 있습니다.<br>Interested in DBMS, Algorithm, Data Structure, etc...<br>
+profile: KAIST 전산학부 재학중인 석사과정 학생입니다.<br>Master student at School of Computing, KAIST<br><br>DBMS, 알고리즘, 자료구조 등에 흥미가 있습니다.<br>Interested in DBMS, Algorithm, Data Structure, etc...<br>
 social:
   github: https://github.com/pch6828
+  linkedin: https://www.linkedin.com/in/jeong-ho-park-638304205/
   facebook: https://www.facebook.com/profile.php?id=100009329985343
+  instagram: https://www.instagram.com/jung_ho_0307/
 
 # Build settings
 include: ["_categories"]
